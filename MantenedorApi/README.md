@@ -1,15 +1,15 @@
-# Gestión de Variables
+# Gestiï¿½n de Variables
 
 Prueba tecnica para neosoft 
 
-## Características
+## Caracterï¿½sticas
 
 - **Crear**: Permite agregar nuevas variables con atributos como nombre, valor y tipo.
 - **Leer**: Recupera variables individuales o listas de variables.
 - **Actualizar**: Modifica los atributos de una variable existente.
 - **Eliminar**: Elimina variables por su ID.
 
-## Tecnologías utilizadas
+## Tecnologï¿½as utilizadas
 
 - **Lenguaje**: C#
 - **Framework**: .NET
@@ -19,9 +19,9 @@ Prueba tecnica para neosoft
 
 ## Estructura del proyecto
 
-- **DTOs**: Contienen los modelos de datos para transferir información entre capas.
-- **Repositorios**: Implementan la lógica de acceso a datos utilizando Dapper.
-- **Servicios**: Contienen la lógica de negocio.
+- **DTOs**: Contienen los modelos de datos para transferir informaciï¿½n entre capas.
+- **Repositorios**: Implementan la lï¿½gica de acceso a datos utilizando Dapper.
+- **Servicios**: Contienen la lï¿½gica de negocio.
 - **Controladores**: Exponen los endpoints de la API.
 
 ## Endpoints principales
@@ -32,18 +32,32 @@ Prueba tecnica para neosoft
 - **PUT** `/variables/{id}`: Actualizar una variable existente.
 - **DELETE** `/variables/{id}`: Eliminar una variable por su ID.
 
-## Configuración del proyecto
+### Usuarios
+- **POST** `/usuarios`: Crear un nuevo usuario.
+- **GET** `/usuarios`: Obtener todos los usuarios.
+- **GET** `/usuarios/{id}`: Obtener un usuario por su ID.
+- **PUT** `/usuarios/{id}`: Actualizar un usuario existente.
+- **DELETE** `/usuarios/{id}`: Eliminar un usuario por su ID.
+
+### Rol
+- **POST** `/rol`: Crear un nuevo rol.
+- **GET** `/rol`: Obtener todos los roles.
+- **GET** `/rol/{id}`: Obtener un rol por su ID.
+- **PUT** `/rol/{id}`: Actualizar un rol existente.
+- **DELETE** `/rol/{id}`: Eliminar un rol por su ID.
+
+## Configuraciï¿½n del proyecto
 
 1. Clona el repositorio:
    
   ``` git clone <URL_DEL_REPOSITORIO>  ```
 
-2. Configura la cadena de conexión a la base de datos en el archivo `appsettings.json`:
+2. Configura la cadena de conexiï¿½n a la base de datos en el archivo `appsettings.json`:
 
    ```json
 {
   "ConnectionStrings": {
-	"DefaultConnection": "Server=localhost;Database=nombre_base_datos;User Id=usuario;Password=contraseña;"
+	"DefaultConnection": "Server=localhost;Database=nombre_base_datos;User Id=usuario;Password=contraseï¿½a;"
   }
 }
 
