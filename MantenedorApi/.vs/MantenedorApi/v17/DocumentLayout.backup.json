@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\neosoft\\MantenedorApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\services\\variableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:services\\variableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\repository\\variablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:repository\\variablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\controllers\\variablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:controllers\\variablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\services\\interfaces\\ivariableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:services\\interfaces\\ivariableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\repository\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:repository\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\repository\\interfaces\\ivariablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:repository\\interfaces\\ivariablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\utils\\validatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:utils\\validatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|c:\\neosoft\\mantenedorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01767263-6BE6-4D59-A7CE-51E1F78BB405}|MantenedorApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RolRepository.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Repository\\RolRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\RolRepository.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Repository\\RolRepository.cs",
-              "RelativeToolTip": "Repository\\RolRepository.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:39:59.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VariableService.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Services\\VariableService.cs",
-              "RelativeDocumentMoniker": "Services\\VariableService.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Services\\VariableService.cs",
-              "RelativeToolTip": "Services\\VariableService.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAwwJ4AAAAyAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\neosoft\\MantenedorApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T21:39:02.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VariableRepository.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Repository\\VariableRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\VariableRepository.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Repository\\VariableRepository.cs",
-              "RelativeToolTip": "Repository\\VariableRepository.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAowHEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T21:38:58.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAcwJ8AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T21:53:59.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VariableController.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Controllers\\VariableController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VariableController.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Controllers\\VariableController.cs",
-              "RelativeToolTip": "Controllers\\VariableController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowE8AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T21:46:41.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RolController.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Controllers\\RolController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RolController.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Controllers\\RolController.cs",
-              "RelativeToolTip": "Controllers\\RolController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:48:49.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IVariableService.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Services\\Interfaces\\IVariableService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IVariableService.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Services\\Interfaces\\IVariableService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IVariableService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:39:55.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:13:34.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IVariableRepository.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Repository\\Interfaces\\IVariableRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Interfaces\\IVariableRepository.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Repository\\Interfaces\\IVariableRepository.cs",
-              "RelativeToolTip": "Repository\\Interfaces\\IVariableRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:44:27.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAewB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:31:39.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "validateData.cs",
-              "DocumentMoniker": "C:\\neosoft\\MantenedorApi\\utils\\validateData.cs",
-              "RelativeDocumentMoniker": "utils\\validateData.cs",
-              "ToolTip": "C:\\neosoft\\MantenedorApi\\utils\\validateData.cs",
-              "RelativeToolTip": "utils\\validateData.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwB8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:36:12.162Z",
+              "WhenOpened": "2025-05-31T01:14:26.7Z",
               "EditorCaption": ""
             }
           ]

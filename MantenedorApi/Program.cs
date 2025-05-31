@@ -22,7 +22,21 @@ builder.Services.AddScoped<IRolRepository, RolRepository>();
 builder.Services.AddScoped<IVariableRepository, VariableRepository>();
 
 builder.Services.AddScoped<DapperContext>();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
+
+app.UseCors("AllowAll");
+
 app.UseRouting(); //middleware encargado de hablitar el enrutamiento de la app, permite la url de las solicitudes
 app.MapControllers(); //metodo que registra los controladores en el sistema de enrutamiento
 

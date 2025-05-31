@@ -35,3 +35,4 @@ C:\neosoft\MantenedorApi\obj\Debug\net8.0\refint\MantenedorApi.dll
 C:\neosoft\MantenedorApi\obj\Debug\net8.0\MantenedorApi.pdb
 C:\neosoft\MantenedorApi\obj\Debug\net8.0\MantenedorApi.genruntimeconfig.cache
 C:\neosoft\MantenedorApi\obj\Debug\net8.0\ref\MantenedorApi.dll
+C:\neosoft\MantenedorApi\obj\Debug\net8.0\MantenedorApi.sourcelink.json
